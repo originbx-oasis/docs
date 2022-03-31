@@ -1,4 +1,4 @@
-<img src="originbx-oasis/oasis-open-project/blob/main/artwork/OriginBX_OASIS_logo_blk_1.png" width="200">
+<img src="OriginBX_OASIS_logo_blk_1.png" width="200">
 
 <h1>OriginBX Project Governing Board (PGB)</h1>
 
