@@ -6,7 +6,7 @@
   
 <p>PGB members include representatives of <a href="https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md">OriginBX sponsor organizations</a> and representatives from the community at-large who serve on the Technical Steering Committee.</p>
 
-<p><i>PGB Chair</i>: Todd R. Smith<!--, Oswald Kuyler --></p>
+<p><i>PGB Chair</i>: Todd R. Smith, Oswald Kuyler</p>
 
 <p>PGB members:</p>
 
